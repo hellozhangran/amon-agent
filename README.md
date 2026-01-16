@@ -14,7 +14,7 @@
   <img src="./screenshots/example.png" alt="Amon Logo" width="600" />
 </div>
 
-## 项目简介
+## 项目简介1
 
 Amon 是一个基于 [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) 构建的桌面应用，可以为 Claude Code 提供可视化的图形界面。
 
