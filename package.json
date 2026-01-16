@@ -1,7 +1,7 @@
 {
   "name": "openchat",
   "productName": "openchat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amon - A desktop chat application powered by Claude AI",
   "main": ".vite/build/index.js",
   "scripts": {
